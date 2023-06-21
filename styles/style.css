@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
+<<<<<<< HEAD
+=======
+@import url("../styles/projects.css");
+>>>>>>> 7f8467c (pagina projetos)
 
 :root{
     --cor-primaria: #000000;
@@ -168,7 +172,10 @@ img{
     .apresentacao-conteudo{
         widht:auto;
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7f8467c (pagina projetos)
     .apresentacao-conteudo-about{
         flex-direction: column;
     }
